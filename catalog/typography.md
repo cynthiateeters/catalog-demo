@@ -1,5 +1,9 @@
 ### Typography
 
+#### Font Family
+
+Trispace
+
 #### Headings
 
 ```type
